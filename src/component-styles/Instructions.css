@@ -1,0 +1,11 @@
+#instructions {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(61, 83, 209);
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 5px 10px 18px #888888;
+    color: white;
+}
